@@ -25,6 +25,8 @@ ___
 
 ###Kennis webtechnologieën
 
+* jQuery
+* ...
 
 ---
 
