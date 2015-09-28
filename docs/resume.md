@@ -1,6 +1,9 @@
 Résumé
 ======
 
+
+![alt text](http://imgur.com/0Qg2zuL "Logo")
+
 ***
 
 ###Biografie
